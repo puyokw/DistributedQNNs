@@ -1,7 +1,5 @@
 # Distributed Quantum Neural Networks via Partitioned Features Encoding
-##
-The paper of "Distributed quantum neural networks via partitioned features encoding" can be read at [Qu
- Machine Intelligence](https://rdcu.be/dAVb9). Here, we put the codes used in the paper. 
+The paper of "Distributed quantum neural networks via partitioned features encoding" can be read at [Quantum Machine Intelligence](https://rdcu.be/dAVb9). Here, we put the codes used in the paper. 
 
 ## Examples
 In this repository, 
