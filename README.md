@@ -1,4 +1,7 @@
 # Distributed Quantum Neural Networks via Partitioned Features Encoding
+##
+The paper of "Distributed quantum neural networks via partitioned features encoding" can be read at [Qu
+ Machine Intelligence](https://rdcu.be/dAVb9). Here, we put the codes used in the paper. 
 
 ## Examples
 In this repository, 
@@ -10,11 +13,16 @@ we put the jupyter notebooks used in our numerical experiments.
 - semeion8x8_2qnn20+c20.ipynb: classifying reduced sized  Semeion data set (8x8) with 2 qnns
 - semeion8x8_qnn20+c35.ipynb: classifying reduced sized  Semeion data set (8x8) 1 qnn
 ## Citation
+If you find this repository useful for your research, please consider citing our work:
 ```
-@article{kawase2023distributedqnns,
-      title={Distributed Quantum Neural Networks via Partitioned Features Encoding}, 
-      author={Yoshiaki Kawase},
-      journal={arXiv preprint arXiv:2312.13650},
-      year={2023},
+@article{kawase2024distributed,
+  title={Distributed quantum neural networks via partitioned features encoding},
+  author={Yoshiaki Kawase},
+  journal={Quantum Machine Intelligence},
+  volume={6},
+  number={1},
+  pages={15},
+  year={2024},
+  publisher={Springer}
 }
 ```
